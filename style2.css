@@ -7,7 +7,6 @@ body {
   font-family: "Merriweather", serif;
   color: #424874;
 }
-h1,
 p {
   margin: 1rem;
 }
@@ -18,7 +17,9 @@ p {
   position: relative;
   padding: 100px 0 50px 0;
 }
-
+a {
+  text-decoration: none;
+}
 .text {
   margin-bottom: 75px;
   margin-top: 21px;
@@ -212,4 +213,27 @@ hr {
   .profile {
     width: 75%;
   }
+}
+@keyframes punch {
+  0% {
+    width: 100%;
+  }
+  25% {
+    width: 102%;
+  }
+  50% {
+    width: 100%;
+  }
+  75% {
+    width: 98%;
+  }
+  100% {
+    width: 100%;
+  }
+}
+.punch:hover {
+  animation: punch;
+  animation-duration: 10s;
+  animation-delay: 0;
+  animation-iteration-count: infinite;
 }
