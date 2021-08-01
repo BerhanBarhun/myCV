@@ -1,3 +1,4 @@
-# myCV![image](https://user-images.githubusercontent.com/74106636/125684573-d5d26101-402e-4b4b-b1f0-7984dc2a1a7f.png)
+# myCV
 
-![image](https://user-images.githubusercontent.com/74106636/125431744-40dd8e6c-afab-43fe-b42b-e0318987858f.png)
+![image](https://user-images.githubusercontent.com/74106636/127780589-b2eb15f0-0152-4512-a4f2-a559d4ab5423.png)
+![image](https://user-images.githubusercontent.com/74106636/127780591-9706d3c4-9254-403a-91b0-99d2b033ba96.png)
